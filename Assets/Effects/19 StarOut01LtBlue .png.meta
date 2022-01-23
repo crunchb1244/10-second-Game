@@ -1,0 +1,706 @@
+fileFormatVersion: 2
+guid: e150639358765354aa555752d55a100f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7415031603324830476
+    second: 19 StarOut01LtBlue _0
+  - first:
+      213: -4717443511734570765
+    second: 19 StarOut01LtBlue _1
+  - first:
+      213: 90694394362495907
+    second: 19 StarOut01LtBlue _2
+  - first:
+      213: 738322060740738279
+    second: 19 StarOut01LtBlue _3
+  - first:
+      213: -6067410424401670383
+    second: 19 StarOut01LtBlue _4
+  - first:
+      213: 448637451057711238
+    second: 19 StarOut01LtBlue _5
+  - first:
+      213: -6979598718309652526
+    second: 19 StarOut01LtBlue _6
+  - first:
+      213: 7808445373535225752
+    second: 19 StarOut01LtBlue _7
+  - first:
+      213: -7825219406393421327
+    second: 19 StarOut01LtBlue _8
+  - first:
+      213: -2254322886827803674
+    second: 19 StarOut01LtBlue _9
+  - first:
+      213: 255430941363737494
+    second: 19 StarOut01LtBlue _10
+  - first:
+      213: 3865543393786341269
+    second: 19 StarOut01LtBlue _11
+  - first:
+      213: 2493821883664879921
+    second: 19 StarOut01LtBlue _12
+  - first:
+      213: -7262921449049836531
+    second: 19 StarOut01LtBlue _13
+  - first:
+      213: -5255708327736454617
+    second: 19 StarOut01LtBlue _14
+  - first:
+      213: 8779208213143283485
+    second: 19 StarOut01LtBlue _15
+  - first:
+      213: -6223494073337425495
+    second: 19 StarOut01LtBlue _16
+  - first:
+      213: -2736538329930462755
+    second: 19 StarOut01LtBlue _17
+  - first:
+      213: -5213405980473717651
+    second: 19 StarOut01LtBlue _18
+  - first:
+      213: 4941605455912214994
+    second: 19 StarOut01LtBlue _19
+  - first:
+      213: -4468258650099373164
+    second: 19 StarOut01LtBlue _20
+  - first:
+      213: -2958313378538374616
+    second: 19 StarOut01LtBlue _21
+  - first:
+      213: 2331561421833632455
+    second: 19 StarOut01LtBlue _22
+  - first:
+      213: 2855777696593631310
+    second: 19 StarOut01LtBlue _23
+  - first:
+      213: 4720155537058532333
+    second: 19 StarOut01LtBlue _24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 19 StarOut01LtBlue _0
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1437
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc37851b04881990800000000000000
+      internalID: -7415031603324830476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19 StarOut01LtBlue _1
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1433
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0f613ce16488eb0800000000000000
+      internalID: -4717443511734570765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19 StarOut01LtBlue _2
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1429
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a388173216324100800000000000000
+      internalID: 90694394362495907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19 StarOut01LtBlue _3
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1425
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec3940a00c0f3a00800000000000000
+      internalID: 738322060740738279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19 StarOut01LtBlue _4
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1229
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f49039d5a3ccba0800000000000000
+      internalID: -6067410424401670383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19 StarOut01LtBlue _5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1225
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6884b3f7261e93600800000000000000
+      internalID: 448637451057711238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19 StarOut01LtBlue _6
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1221
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7a168f1fb732f90800000000000000
+      internalID: -6979598718309652526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19 StarOut01LtBlue _7
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1217
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8970c9142bb2d5c60800000000000000
+      internalID: 7808445373535225752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19 StarOut01LtBlue _8
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1213
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f15d60e86c376390800000000000000
+      internalID: -7825219406393421327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19 StarOut01LtBlue _9
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1018
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb7891474907b0e0800000000000000
+      internalID: -2254322886827803674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19 StarOut01LtBlue _10
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1014
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69311ac76197b8300800000000000000
+      internalID: 255430941363737494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19 StarOut01LtBlue _11
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1010
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5972e727c3b25a530800000000000000
+      internalID: 3865543393786341269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19 StarOut01LtBlue _12
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1006
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131d0f45ac5db9220800000000000000
+      internalID: 2493821883664879921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19 StarOut01LtBlue _13
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1002
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04b1d53c6be43b90800000000000000
+      internalID: -7262921449049836531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19 StarOut01LtBlue _14
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 806
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722d4323f19ff07b0800000000000000
+      internalID: -5255708327736454617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19 StarOut01LtBlue _15
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 802
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17e8990b5306d970800000000000000
+      internalID: 8779208213143283485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19 StarOut01LtBlue _16
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 799
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a159f02d15b1a9a0800000000000000
+      internalID: -6223494073337425495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19 StarOut01LtBlue _17
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 795
+        width: 138
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9014243ecd50ad0800000000000000
+      internalID: -2736538329930462755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19 StarOut01LtBlue _18
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 791
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c87ffe1e246a7b0800000000000000
+      internalID: -5213405980473717651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19 StarOut01LtBlue _19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 595
+        width: 154
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1a7cbfafb149440800000000000000
+      internalID: 4941605455912214994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19 StarOut01LtBlue _20
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 591
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ba24c7e6e8df1c0800000000000000
+      internalID: -4468258650099373164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19 StarOut01LtBlue _21
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 587
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a3fe1f7a5f1f6d0800000000000000
+      internalID: -2958313378538374616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19 StarOut01LtBlue _22
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 584
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7caf56092ce5b5020800000000000000
+      internalID: 2331561421833632455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19 StarOut01LtBlue _23
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 581
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4852fa3fa2c1a720800000000000000
+      internalID: 2855777696593631310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19 StarOut01LtBlue _24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 960
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb87f6d37c518140800000000000000
+      internalID: 4720155537058532333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
